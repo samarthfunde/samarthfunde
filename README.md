@@ -29,30 +29,30 @@
 
 ### 🚀 About Me
 
-*🎓 Computer Engineering Student* | ISBM COE Pune  
-*📍 Based in* Pune, Maharashtra, India  
-*☁ Passionate about* AWS Cloud Infrastructure & Devops Automation  
-*🔧 Currently Learning* Advanced DevOps Tools & Cloud Architecture  
-*🎯 Focus Areas:*
+**🎓 Computer Engineering Student** | ISBM COE Pune  
+**📍 Based in** Pune, Maharashtra, India  
+**☁️ Passionate about** AWS Cloud Infrastructure & Devops Automation  
+**🔧 Currently Learning** Advanced DevOps Tools & Cloud Architecture  
+**🎯 Focus Areas:**
 - AWS Cloud Computing & Infrastructure as Code
 - DevOps Automation & CI/CD Pipelines  
 - AI-Assisted DevOps Solutions
 - Infrastructure Design & Scalable Architecture
 - Container Orchestration & Microservices
 
-*💡 Fun Fact:* I turn coffee into cloud infrastructure ☕ → ☁
+**💡 Fun Fact:** I turn coffee into cloud infrastructure ☕ → ☁️
 
-*📺 Content Creator:* Sharing cloud knowledge on [YouTube - Cloud with Sam](https://www.youtube.com/@Cloud_with_Sam)
+**📺 Content Creator:** Sharing cloud knowledge on [YouTube - Cloud with Sam](https://www.youtube.com/@Cloud_with_Sam)
 
 <br clear="right"/>
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-### ☁ Cloud & DevOps Technologies
+### ☁️ Cloud & DevOps Technologies
 
 <table>
 <tr>
@@ -109,7 +109,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-### 🗄 Databases & Tools
+### 🗄️ Databases & Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -121,7 +121,7 @@
 
 ---
 
-## ☁ AWS Services Mastery
+## ☁️ AWS Services Mastery
 
 <div align="center">
 
@@ -211,7 +211,7 @@
 
 <div align="center">
 
-mermaid
+```mermaid
 mindmap
   root((Samarth))
     AWS Cloud
@@ -234,7 +234,7 @@ mindmap
       Cloud Automation
       System Monitoring
       Alert Management
-
+```
 
 </div>
 
@@ -244,9 +244,9 @@ mindmap
 
 <div align="center">
 
-### ☁ Cloud with Sam - YouTube Channel
+### ☁️ Cloud with Sam - YouTube Channel
 
-I create educational content about *AWS Cloud, **DevOps practices, and **Basic Linux & Devops tutorials*  
+I create educational content about **AWS Cloud**, **DevOps practices**, and **Basic Linux & Devops tutorials**  
 Building a community of cloud enthusiasts and helping developers level up their skills!
 
 <a href="https://www.youtube.com/@Cloud_with_Sam">
@@ -293,7 +293,7 @@ Building a community of cloud enthusiasts and helping developers level up their 
       </a>
     </td>
      <td align="center" width="200">
-     <a href="https://www.instagram.com/_samarth_45_?igsh=eW9scjN2a2kxanY3">
+     <a href="https://www.instagram.com/____samarth_45____?igsh=eW9scjN2a2kxanY3">
   <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60" alt="Instagram"/>
   <br><strong>Instagram</strong> 
 </a> </td>
@@ -314,7 +314,7 @@ Building a community of cloud enthusiasts and helping developers level up their 
 
 <div align="center">
   
-## 💭 "The cloud is not a place, it's a mindset of infinite possibilities"
+## 💭 *"The cloud is not a place, it's a mindset of infinite possibilities"*
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
