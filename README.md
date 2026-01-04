@@ -226,7 +226,7 @@ mindmap
       Monitoring & Logging
     Development
       MERN Stack
-      Java
+      Python
       Flutter
       RESTful APIs
     Automation
